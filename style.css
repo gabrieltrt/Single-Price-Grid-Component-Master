@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Karla', sans-serif;
+  background-color: #E6EFF6;
+  height: 100vh;
+  padding: 72px 32px 62px 32px;
+}
+
+.main-box {
+  max-width: 311px;
+  margin: 0 auto;
+  
+
+}
+
+.community {
+  background-color: #FFFFFF;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.community h2 {
+  color: #2AB3B1;
+  font-size: 1.250rem;
+  margin-bottom: 24px;
+  font-weight: 700;
+}
+
+.moneyback {
+  font-size: 0.94rem;
+  color: #C0DF33;
+  font-weight: 700;
+  line-height: 20px;
+  margin-bottom: 24px;
+}
+
+.access {
+  color: #9AA7BE;
+  font-size: 0.860rem;
+  line-height: 26px;
+}
+
+
+.subscription {
+  background-color: #2BB3B1;
+}
+
+.subscription h2 {
+  color: #FFFFFF;
+}
+
+
+
+.subscription span {
+  color: #FFFFFF;
+  opacity: 0.5;
+  font-size: 1rem;
+  
+}
+
+
+.price-box {
+  display: flex;
+  align-items: center;
+}
+
+.price {
+  font-size: 2rem;
+  color: #FFFFFF;
+  font-weight: 700;
+}
+
+.whyus {
+  background-color: #4ABEBD;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.whyus h2 {
+  color: #FFFFFF;
+}
+
+.box {
+  padding: 1.5em 1.5em 2em 1.5em;
+  
+}
+
+.title {
+  font-size: 18px;
+}
+
