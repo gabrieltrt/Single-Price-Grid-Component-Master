@@ -147,7 +147,7 @@ body {
 .main-box {
   max-width: 635px;
   display: grid;
-  grid-template: 1fr 1fr / 1fr 1fr;
+  grid-template: 1fr / 1fr 1fr;
 }
 
 .box {
@@ -159,12 +159,26 @@ body {
 }
 
 .community h1 {
-  font-size: 1.5em;
+  font-size: 1.5rem;
+  margin: 0 0 1em 0;
+}
+
+.moneyback {
+  margin-bottom: 0.7315em;
+}
+
+.access {
+  margin: 0;
 }
 
 .sign-btn {
-  width: 15em;
+  width: 14.81em;
 }
+
+.whyus {
+  border-bottom-left-radius: 0px;
+}
+
 
 }
 
